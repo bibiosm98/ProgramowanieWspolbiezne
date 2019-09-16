@@ -129,8 +129,7 @@ public class Zad_1_3 {
 
 //        Czas nanos: 389866576 Ilosc krawedzi: 99992138
 //        Najlepszy czas = 212158533 Dla skoku = 1223 Przy macierzy o rozmiarze 20000x20000
-//        Przy około 50 działa najskuteczniej
-das
+//        Przy około 500 działa najskuteczniej
 
     }
 
