@@ -13,7 +13,7 @@ public class Zad_1_2 {
             Thread t = new Thread();
             watki.add(t);
             if(i%100000==0) System.out.println(i);
-            if(i>8200000)break;dasdasdsad
+            if(i>8200000)break;
         }
     }
 }
